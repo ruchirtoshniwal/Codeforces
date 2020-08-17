@@ -1,2 +1,2 @@
 # Codeforces
-Solution by me of codeforces problems !!
+Solution of codeforces problems !!
